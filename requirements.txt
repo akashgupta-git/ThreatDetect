@@ -1,0 +1,5 @@
+scapy
+loguru
+streamlit
+pandas
+email-validator
